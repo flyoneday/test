@@ -1,0 +1,119 @@
+1553062304647	geckodriver	INFO	geckodriver 0.21.0
+1553062304654	geckodriver	INFO	Listening on 127.0.0.1:9647
+1553062307671	mozrunner::runner	INFO	Running command: "d:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\test\\AppData\\Local\\Temp\\rust_mozprofile.iAJAX5dgDefQ"
+1553062309782	Marionette	INFO	Listening on port 9655
+1553062309886	Marionette	WARN	TLS certificate errors will be ignored for this session
+1553062309969	Marionette	DEBUG	[6442450945] Frame script loaded
+1553062309974	Marionette	DEBUG	[6442450945] Frame script registered
+1553062310013	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1553062310897	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1553062311093	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://siotdev.lenovo.com/
+1553062318573	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://siotdev.lenovo.com/
+1553062320631	Marionette	DEBUG	[6442450951] Frame script loaded
+1553062320646	Marionette	DEBUG	[6442450951] Frame script registered
+1553062320671	Marionette	DEBUG	[6442450954] Frame script loaded
+1553062320673	Marionette	DEBUG	[6442450954] Frame script registered
+1553062322685	Marionette	DEBUG	[6442450951] Received DOM event beforeunload for https://siotdev.lenovo.com/developers
+1553062323126	Marionette	DEBUG	[6442450951] Received DOM event pagehide for https://siotdev.lenovo.com/developers
+1553062323127	Marionette	DEBUG	[6442450951] Received DOM event unload for https://siotdev.lenovo.com/developers
+JavaScript warning: https://passport.lenovo.com/wauthen2/wauth/js/jquery-v2.0.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1553062323554	Marionette	DEBUG	[6442450951] Received DOM event DOMContentLoaded for https://passport.lenovo.com/wauthen2/wauth/jsp/register.jsp?lenovoid.action=newaccount&lenovoid.realm=smartlenovo.lenovo.com. ... .webstate=0&lenovoid.userType=null&lenovoid.uAgreementTxt=null&lenovoid.uAgreementUrl=null&lenovoid.sdk=null&lenovoid.sn=null
+1553062323587	Marionette	DEBUG	[6442450951] Received DOM event pageshow for https://passport.lenovo.com/wauthen2/wauth/jsp/register.jsp?lenovoid.action=newaccount&lenovoid.realm=smartlenovo.lenovo.com. ... .webstate=0&lenovoid.userType=null&lenovoid.uAgreementTxt=null&lenovoid.uAgreementUrl=null&lenovoid.sdk=null&lenovoid.sn=null
+1553062325825	Marionette	DEBUG	[6442450951] Canceled page load listener because no navigation has been detected
+1553062329923	Marionette	INFO	Stopped listening on port 9655
+[Parent 17756, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18080, [GPU 17944, Chrome_ChildThread] 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Parent 11484, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 11008, Chrome_ChildThread]
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+pe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 171[GPU 4220, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ine 346
+[GPU 29804, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+oid.ctx=n ... .webstate=0&lenovoid.userType=null&lenovoid.uAgreementTxt=null&lenovoid.uAgreementUrl=null&lenovoid.sdk=null&lenovoid.sn=null
+1537526575392	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://passport.lenovo.com/wauthen2/userLogin
+1537526575398	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://passport.lenovo.com/wauthen2/userLogin
+[Parent 5632, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5632, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5632, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi1537526609859	Marionette	INFO	Stopped listening on port 54175
+[GPU 23592, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+common/ipc_channel_win.cc, line 346
+[Child 5228,1537254062010	Marionette	INFO	Stopped listening on port 61348
+[GPU 16120
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+de for about:blank
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1537154245662	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1537154245746	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.baidu.com/
+1537154245747	Marionette	TRACE	0 <- [1,2,null,{"value":null}]
+JavaScript warning: resource://devtools/shared/base-loader.js -> resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 83ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+1537154365526	Marionette	DEBUG	[47] Frame script loaded
+1537154365526	Marionette	DEBUG	[47] Frame script registered
+1537154365565	Marionette	DEBUG	[6442450949] Frame script loaded
+1537154365589	Marionette	DEBUG	[6442450949] Frame script registered
+1537154380417	Marionette	DEBUG	[2147483652] Frame script loaded
+1537154380423	Marionette	DEBUG	[2147483652] Frame script registered
+console.warn: "Failed to enumerate localStorage for host about:home: [Exception... \"Component is not available\"  nsresult: \"0x80040111 (NS_ERROR_NOT_AVAILABLE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/storage.js :: populateStoresForHost :: line 1172\"  data: no]"
+console.warn: "Failed to enumerate sessionStorage for host about:home: [Exception... \"Component is not available\"  nsresult: \"0x80040111 (NS_ERROR_NOT_AVAILABLE)\"  location: \"JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/storage.js :: populateStoresForHost :: line 1172\"  data: no]"
+console.error: "Error while calling actor 'stylesheet's method 'getText'" "sheet.ownerNode is null, can't access property \"textContent\" of it"
+console.error: "getSheetText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:136:11\n_getText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:473:12\ngetText@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/stylesheets.js:456:12\nhandler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1178:21\nonPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1721:15\nreceiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/child-transport.js:66:5\n"
+console.error: "Protocol error (unknownError): sheet.ownerNode is null, can't access property \"textContent\" of it"
+JavaScript error: , line 0: uncaught exception: Protocol error (unknownError): sheet.ownerNode is null, can't access property "textContent" of it
+1537154598242	addons.xpi	WARN	Failed to remove temporary file C:\Users\test\AppData\Local\Temp\tmp-lhr.xpi for addon https://addons.mozilla.org/firefox/downloads/file/1033219/try_xpath-1.3.4-an+fx.xpi?src=recommended: [Exception... "Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIFile.remove]"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: removeTemporaryFile :: line 1506"  data: no] Stack trace: removeTemporaryFile()@resource://gre/modules/addons/XPIInstall.jsm:1506
+startInstall/<()@resource://gre/modules/addons/XPIInstall.jsm:1802
+[Parent 6200, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+console.error: "Protocol error (noSuchActor): No such actor for ID: server1.conn0.child1/memoryActor11"
+[Parent 6200, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc[Child_ch 15200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346annel_win.cc, 
+line 346
+[Child 1520[Child 13612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/i1537154604633	Marionette	DEBUG	Closed connection 0
+[Child 12512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12512, Chrome_ChildThrea1537154604938	Marionette	DEBUG	Received observer notification xpcom-will-shutdown
+1537154604938	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1537154604938	Marionette	DEBUG	Resetting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer
+1537154604939	Marionette	DEBUG	Resetting recommended pref apz.content_response_timeout
+1537154604939	Marionette	DEBUG	Resetting recommended pref browser.download.panel.shown
+1537154604939	Marionette	DEBUG	Resetting recommended pref browser.pagethumbnails.capturing_disabled
+1537154604939	Marionette	DEBUG	Resetting recommended pref browser.search.update
+1537154604939	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1537154604940	Marionette	DEBUG	Resetting recommended pref browser.tabs.disableBackgroundZombification
+1537154604940	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnCloseOtherTabs
+1537154604940	Marionette	DEBUG	Resetting recommended pref browser.tabs.warnOnOpen
+1537154604940	Marionette	DEBUG	Resetting recommended pref browser.usedOnWindows10.introURL
+1537154604940	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1537154604940	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1537154604940	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1537154604941	Marionette	DEBUG	Resetting recommended pref dom.disable_open_during_load
+1537154604941	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1537154604941	Marionette	DEBUG	Resetting recommended pref dom.max_chrome_script_run_time
+1537154604941	Marionette	DEBUG	Resetting recommended pref dom.max_script_run_time
+1537154604941	Marionette	DEBUG	Resetting recommended pref extensions.getAddons.cache.enabled
+1537154604941	Marionette	DEBUG	Resetting recommended pref extensions.webservice.discoverURL
+1537154604941	Marionette	DEBUG	Resetting recommended pref network.http.prompt-temp-redirect
+1537154604941	Marionette	DEBUG	Resetting recommended pref network.http.speculative-parallel-limit
+1537154604941	Marionette	DEBUG	Resetting recommended pref security.fileuri.strict_origin_policy
+1537154604941	Marionette	DEBUG	Resetting recommended pref security.notification_enable_delay
+1537154604942	Marionette	DEBUG	Resetting recommended pref signon.autofillForms
+1537154604942	Marionette	DEBUG	Resetting recommended pref signon.rememberSignons
+1537154604942	Marionette	INFO	Stopped listening on port 58084
+1537154604942	Marionette	DEBUG	Remote service is inactive
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

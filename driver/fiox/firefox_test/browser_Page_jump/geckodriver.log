@@ -1,0 +1,65 @@
+1538206573510	geckodriver	INFO	geckodriver 0.21.0
+1538206573520	geckodriver	INFO	Listening on 127.0.0.1:56078
+1538206576570	mozrunner::runner	INFO	Running command: "d:\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\test\\AppData\\Local\\Temp\\rust_mozprofile.3dzdweDgHhlL"
+1538206579071	Marionette	INFO	Listening on port 56086
+1538206579294	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538206579337	Marionette	DEBUG	[6442450945] Frame script loaded
+1538206579339	Marionette	DEBUG	[6442450945] Frame script registered
+1538206579363	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538206579692	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538206579906	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://siotdev.lenovo.com/
+1538206580983	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://siotdev.lenovo.com/
+1538206583033	Marionette	DEBUG	[6442450951] Frame script loaded
+1538206583042	Marionette	DEBUG	[6442450951] Frame script registered
+1538206583065	Marionette	DEBUG	[6442450954] Frame script loaded
+1538206583067	Marionette	DEBUG	[6442450954] Frame script registered
+1538206585031	Marionette	INFO	Stopped listening on port 56086
+[Parent 24756, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 24756, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x560027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 2496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/i[Parent 24756, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 31012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3101
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1 (NS_ERROR_NOT_AVAILABLE) [nsIWebNavigation.loadURIWithOptions]
+[Parent 35984, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 35984, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ead] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 14400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 36564, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rc/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 22220, Chrome_Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l error: cannot send/recv
+
+essageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A000F,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x560027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 31500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7280, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 5760
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
